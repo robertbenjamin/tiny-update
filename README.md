@@ -4,7 +4,7 @@ This is a tiny script for updating Brew, RVM, and Node with one terminal command
 
 ## To Install
 
-```
+```Shell
 # Place update.sh somewhere safe
 # Create a symlink to your bin folder with:
 
