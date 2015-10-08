@@ -10,7 +10,8 @@ This is a tiny script for updating Brew, RVM, and Node with one terminal command
 
 ln -s /path/to/script/update.sh /usr/local/bin/your-command-name-here
 
-# Then, navigate to the location of the actual script in the terminal (not the symlink) and run the following:
+# Then, navigate to the location of the actual script in the terminal 
+# (not the symlink) and run the following:
 
 chmod +x update.sh
 ```
