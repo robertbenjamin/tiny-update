@@ -1,6 +1,6 @@
 # Simple Update
 
-This is a tiny script for updating Brew, RVM, and Node with one terminal command.
+This is a tiny script for updating (and cleaning up) Brew, RVM, and Node with one terminal command.
 
 ## To Install
 

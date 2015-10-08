@@ -5,6 +5,7 @@ clear
 
 brew update
 brew upgrade
+brew cleanup
 
 rvm get stable
 
