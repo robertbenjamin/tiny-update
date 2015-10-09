@@ -2,7 +2,7 @@
 
 This is a tiny script for updating (and cleaning up) Brew, RVM, and Node with one terminal command.
 
-[Here it is in action!}(update-example.gif)
+[Here it is in action!](update-example.gif)
 
 ## To Install
 
