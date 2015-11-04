@@ -10,11 +10,6 @@ brew upgrade
 brew cleanup
 echo
 
-echo "Now updating RVM..."
-echo
-rvm get stable
-echo
-
 echo "Now updating RubyGems..."
 echo
 gem update --system
