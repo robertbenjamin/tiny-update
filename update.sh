@@ -15,6 +15,16 @@ echo
 rvm get stable
 echo
 
+echo "Now updating RubyGems..."
+echo
+gem update --system
+echo
+
+echo "Now updating your precious gems..."
+echo
+gem update
+echo
+
 echo "And finally, updating Node..."
 echo
 npm cache clean -f
