@@ -1,6 +1,6 @@
 # Tiny Update
 
-This is a tiny script for updating (and cleaning up) Brew, RubyGems and Node with one easy terminal command.
+This is a tiny script for updating (and cleaning up) Brew, RubyGems and Node with one terminal command.
 
 ![Here it is in action!](update-example.gif)
 
