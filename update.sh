@@ -1,5 +1,5 @@
 #!/bin/bash
-# A tiny script for quickly updating Brew, RVM, and Node
+# A tiny script for quickly updating Brew and Rubygems
 
 clear
 
@@ -13,13 +13,6 @@ echo
 echo "Now updating RubyGems..."
 echo
 gem update --system
-echo
-
-echo "And finally, updating Node..."
-echo
-npm cache clean -f
-npm install -g n
-n stable
 echo
 
 echo
